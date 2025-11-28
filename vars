@@ -45,7 +45,7 @@ beta_type|1
 beta2_server|beta2.growtopiagame.com
 beta2_port|26999
 beta2_type|1
-type2|0
+type2|1
 meta|%s
 RTENDMARKERBS1001
 server_data_End
